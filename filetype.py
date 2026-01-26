@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 """
 Identify the filetype of a file, using magic numbers in file headers.
-This script is written by ostrichwoddy.
+This python script is written by ostrichwoddy.
 """
 
 import sys
