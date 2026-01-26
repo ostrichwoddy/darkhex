@@ -1,5 +1,8 @@
 #! /usr/bin/env python3
-
+"""
+Identify the filetype of a file, using magic numbers in file headers.
+This script is created by ostrichwoddy.
+"""
 
 import sys
 from gethex import findhex
